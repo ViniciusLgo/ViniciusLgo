@@ -66,3 +66,6 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 ViniciusLgo/ViniciusLgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![snake gif](https://github.com/ViniciusLgo/ViniciusLgo/blob/output/github-contribution-grid-snake.svg)
