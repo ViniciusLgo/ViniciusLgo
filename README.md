@@ -54,18 +54,5 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 
 
 
-          
-
-- 👋 Hi, I’m @ViniciusLgo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ViniciusLgo/ViniciusLgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 ![snake gif](https://github.com/ViniciusLgo/ViniciusLgo/blob/output/github-contribution-grid-snake.svg)
