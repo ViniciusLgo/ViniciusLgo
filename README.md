@@ -1,5 +1,5 @@
 
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile 💻.
 
 Hoje eu faço duas faculdades voltadas a areá de T.I, uma delas é a Engenharia de Software na Unifacs e a Rede de computadores na pitagoras!
 
@@ -23,7 +23,7 @@ Atualmente estou aprendendo HTML5 E CSS, e javascript...
 
 </div>
 
-### *Vamos se conectar, estes são meus contatos:* 
+### *Vamos se conectar, estes são meus contatos:*  
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v1n1c1us.404/)
@@ -38,7 +38,7 @@ Atualmente estou aprendendo HTML5 E CSS, e javascript...
 ![snake gif](https://github.com/ViniciusLgo/ViniciusLgo/blob/output/github-contribution-grid-snake.svg)
 
 
-## *Cursos e aprimoramentos* 
+## *Cursos e aprimoramentos* 🖥️ 
 
 •	Segurança em Tecnologia da Informação (curso)
 
@@ -58,11 +58,11 @@ Atualmente estou aprendendo HTML5 E CSS, e javascript...
 
 
 
-## *EXPERIÊNCIA*
+## EXPERIÊNCIA 👨‍💻
 
-•	Jovem Aprendiz: Tecnologia da Informação – DAX OIL Refino SA 
+•	Jovem Aprendiz: Tecnologia da Informação – 🛢️ DAX OIL Refino SA 
 
-•	Estágio: Tecnologia da Informação – DAX OIL Refino SA 
+•	Estágio: Tecnologia da Informação – 🛢️ DAX OIL Refino SA 
 
 •	Jovem Aprendiz: Ceramus Eliane S/A Produtos Cerâmicos: Produção
 
