@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/><br>  <br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Lago;I'm+22+years+old;I+am+from+Camacari,+BA;I+study+ENG.+of+Software+at+UCSAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/><br>  
+<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Lago;I'm+22+years+old;I+am+from+Camacari,+BA;I+study+ENG.+of+Software+at+UCSAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
@@ -10,8 +11,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=true" height="281" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJiMHFhYmRubHRpbmp1Z2FuY3M5M3pkOXU3b2NxeHU5MXVvb24zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="150" alt="gif" />
 </div>
 
 ###
@@ -107,6 +108,5 @@
 </div>
 
 ###
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
