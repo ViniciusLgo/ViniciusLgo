@@ -4,9 +4,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusLgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ViniciusLgo&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusLgo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ViniciusLgo&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
@@ -16,18 +16,17 @@
     <tr>
       <td>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" height="281" alt="activity-graph" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" height="350" alt="activity-graph" />
         </a>
       </td>
       <td>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJiMHFhYmRubHRpbmp1Z2FuY3M5M3pkOXU3b2NxeHU5MXVvb24zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="281" alt="gif" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJiMHFhYmRubHRpbmp1Z2FuY3M5M3pkOXU3b2NxeHU5MXVvb24zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="350" alt="gif" />
       </td>
     </tr>
   </table>
 </div>
 
 <br clear="both">
-
 
 ###
 
