@@ -12,10 +12,27 @@
 ###
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJiMHFhYmRubHRpbmp1Z2FuY3M5M3pkOXU3b2NxeHU5MXVvb24zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="150" alt="gif" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" height="281" alt="activity-graph" />
+        </a>
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJiMHFhYmRubHRpbmp1Z2FuY3M5M3pkOXU3b2NxeHU5MXVvb24zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="281" alt="gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br clear="both">
+
+
 ###
+
+
+
 
 <br clear="both">
 
@@ -92,14 +109,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/0hxvhuqvpz4x7uyf58g38038d">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0hxvhuqvpz4x7uyf58g38038d&count=7&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
