@@ -1,12 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Vinicius+Lago;Tenho+22+anos;Sou+de+Camaçari,+BA;Estudo+Engenharia+de+Software+na+UCSAL;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Vinicius+Lago;Tenho+22+anos;Sou+de+Camaçari,+BA;Formado+em+Redes+de+Computadores;Cursando+Engenharia+de+Software+na+UCSAL;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ---
 
 ## Sobre Mim
 
-Atualmente, estou cursando Engenharia de Software na Unifacs e Redes de Computadores na Pitágoras. Trabalho como jovem aprendiz, oferecendo suporte ao usuário em uma empresa. Tenho experiência em montagem de computadores, atualizações e resolução de diversos problemas técnicos.
+Sou formado em Redes de Computadores e atualmente estou cursando Engenharia de Software na UCSAL. Atuo como Analista de Infraestrutura e Redes, mas estou em transição de carreira para Desenvolvimento de Software, buscando me tornar um Desenvolvedor Full Stack. 
+
+Tenho experiência sólida em tecnologias como HTML, CSS, JavaScript, Java e Spring. Meu objetivo é combinar minha base em infraestrutura com habilidades de desenvolvimento para entregar soluções completas e eficientes.
+
+"Acredito que o aprendizado é um processo contínuo, e cada linha de código é um passo para um futuro melhor."
 
 ---
 
@@ -14,47 +18,27 @@ Atualmente, estou cursando Engenharia de Software na Unifacs e Redes de Computad
 
 ### Principais Habilidades
 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
-![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg) 
-![Storybook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg)
-
-### Ferramentas
-
 ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
-![After Effects](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg)
-
-### Outros Conhecimentos
-
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-
-### Estudando Atualmente
-
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) 
-![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
 
 ---
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&show_icons=true&theme=highcontrast&hide_border=true" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusLgo&layout=compact&theme=highcontrast&hide_border=true" height="170" alt="Linguagens Mais Usadas" />
-  <img src="https://streak-stats.demolab.com?user=ViniciusLgo&theme=highcontrast&hide_border=true" height="170" alt="Contribuições Consecutivas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&show_icons=true&theme=highcontrast&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusLgo&layout=compact&theme=highcontrast&hide_border=true" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://streak-stats.demolab.com?user=ViniciusLgo&theme=highcontrast&hide_border=true" height="150" alt="Contribuições Consecutivas" />
 </div>
 
 ---
 
-## Atividade Recente
+## Acesse Minha Página
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" height="350" alt="Gráfico de Atividades" />
-  </a>
-</div>
+Quer conhecer mais sobre meus projetos e habilidades? [**Clique aqui para acessar minha página!**](#)
 
 ---
 
@@ -66,21 +50,9 @@ Atualmente, estou cursando Engenharia de Software na Unifacs e Redes de Computad
 
 ---
 
-## Cursos e Certificações
-
-- **Segurança em Tecnologia da Informação** (Curso)
-- **Feira de Conhecimentos e Tecnologia Cetep** – 2º lugar – Kart Elétrico
-- **Olimpíada Brasileira de Robótica (OBR)** – 66º Lugar
-- **Competição de Robótica Sustentável Lego Mindstorm V3** – Associação Paulo Tonucci – 1º Lugar
-- **Idiomas:** Inglês Avançado (Wizard)
-- **Pacote Office Completo**
-- **Curso de Robótica Sustentável**
-- **Instalação, Manutenção e Configuração de Computadores e Redes** (Curso)
-
----
-
 ## Experiência Profissional
 
+- **Analista de Infraestrutura e Redes:** Atuação em suporte técnico, gerenciamento de redes e infraestrutura de TI.
 - **Jovem Aprendiz:** Tecnologia da Informação – DAX OIL Refino SA
 - **Estágio:** Tecnologia da Informação – DAX OIL Refino SA
 - **Jovem Aprendiz:** Ceramus Eliane S/A Produtos Cerâmicos – Produção
