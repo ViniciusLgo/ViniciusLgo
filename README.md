@@ -1,11 +1,6 @@
-<!-- ========================================================= -->
-<!-- GITHUB PROFILE README — VINICIUS LAGO CRUZ               -->
-<!-- Software Engineer | Backend Developer | Infra & DevOps   -->
-<!-- ========================================================= -->
-
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:00bfbf,100:0f172a&text=VINICIUS%20LAGO%20CRUZ&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER%20%7C%20INFRASTRUCTURE%20%26%20DEVOPS&descAlignY=56&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,50:00bfbf,100:0f172a&amp;text=VINICIUS%20LAGO%20CRUZ&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=35&amp;desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER%20%7C%20INFRASTRUCTURE%20%26%20DEVOPS&amp;descAlignY=56&amp;descSize=17&amp;animation=fadeIn"
 />
 
 <div align="center">
@@ -14,33 +9,26 @@
   <img
     src="https://github.com/ViniciusLgo.png?size=220"
     width="180"
-    style="border-radius: 50%;"
-    alt="Foto de perfil de Vinicius Lago Cruz"
+    alt="Vinicius Lago Cruz"
   />
 </a>
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00BFBF&center=true&vCenter=true&repeat=true&random=false&width=1000&height=60&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;PHP+%7C+Laravel+%7C+MySQL;TypeScript+%7C+Next.js+%7C+Supabase;Linux+%7C+Docker+%7C+Infrastructure+%26+DevOps;Construindo+solu%C3%A7%C3%B5es+com+impacto+real)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00BFBF&center=true&vCenter=true&repeat=true&random=false&width=1000&height=60&lines=Software+Engineer+%7C+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;PHP+%7C+Laravel+%7C+MySQL;TypeScript+%7C+Next.js+%7C+Supabase;Linux+%7C+Docker+%7C+Infrastructure+%26+DevOps;Construindo+solu%C3%A7%C3%B5es+com+impacto+real)](https://github.com/ViniciusLgo)
 
 <br>
 
-<a href="https://www.linkedin.com/in/viniciuslagocruz/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Lago%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/ViniciusLgo">
-  <img src="https://img.shields.io/badge/GitHub-ViniciusLgo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://meu-semestre-ucsal.vercel.app/">
-  <img src="https://img.shields.io/badge/Em%20produ%C3%A7%C3%A3o-MeuSemestreUCSAL-00bfbf?style=for-the-badge&logo=vercel&logoColor=white" alt="MeuSemestreUCSAL">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Lago%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuslagocruz/)
+[![GitHub](https://img.shields.io/badge/GitHub-ViniciusLgo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusLgo)
+[![MeuSemestreUCSAL](https://img.shields.io/badge/Em%20produ%C3%A7%C3%A3o-MeuSemestreUCSAL-00bfbf?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-semestre-ucsal.vercel.app/)
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ViniciusLgo&label=VISUALIZA%C3%87%C3%95ES&color=00bfbf&style=for-the-badge" alt="Visualizações do perfil">
-<img src="https://img.shields.io/github/followers/ViniciusLgo?style=for-the-badge&logo=github&label=SEGUIDORES&color=00bfbf" alt="Seguidores no GitHub">
-<img src="https://img.shields.io/badge/Cama%C3%A7ari-BA%2C%20Brasil-00bfbf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
-<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Engineering-22c55e?style=for-the-badge" alt="Open to Work">
+![Visualizações](https://komarev.com/ghpvc/?username=ViniciusLgo&label=VISUALIZA%C3%87%C3%95ES&color=00bfbf&style=for-the-badge)
+[![Seguidores](https://img.shields.io/github/followers/ViniciusLgo?style=for-the-badge&logo=github&label=SEGUIDORES&color=00bfbf)](https://github.com/ViniciusLgo)
+![Localização](https://img.shields.io/badge/Cama%C3%A7ari-BA%2C%20Brasil-00bfbf?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Software%20Engineering-22c55e?style=for-the-badge)
 
 </div>
 
@@ -52,13 +40,11 @@
 
 Sou **Software Engineer** com experiência em desenvolvimento back-end, aplicações web, APIs REST, bancos de dados relacionais, infraestrutura e ambientes de produção.
 
-Minha trajetória profissional começou na área de infraestrutura de TI, o que me deu experiência prática com servidores, redes, Linux, segurança e continuidade operacional. Hoje aplico essa visão para construir sistemas mais confiáveis, seguros e fáceis de manter.
+Minha trajetória começou na infraestrutura de TI, o que me deu visão prática de servidores, redes, Linux, segurança e continuidade operacional. Hoje aplico esse conhecimento para construir sistemas mais confiáveis, seguros e fáceis de manter.
 
-Atuo como **Analista de Infra e Suporte na DAX Oil Refino S.A.** e como **Coordenador de TI no Projeto DAX Code**, participando do planejamento, desenvolvimento, administração e evolução de soluções tecnológicas utilizadas em atividades acadêmicas e corporativas.
+Atuo como **Analista de Infra e Suporte na DAX Oil Refino S.A.** e como **Coordenador de TI no Projeto DAX Code**, liderando desenvolvimento e infraestrutura de soluções utilizadas em contextos acadêmicos e corporativos.
 
-Sou formado em **Redes de Computadores** e atualmente curso **Engenharia de Software na Universidade Católica do Salvador — UCSAL**.
-
-Minha atuação combina:
+Sou formado em **Redes de Computadores** e curso **Engenharia de Software na UCSAL**.
 
 - desenvolvimento back-end com Java, Spring Boot, PHP e Laravel
 - desenvolvimento full stack com TypeScript, Next.js, Blade e Bootstrap
@@ -66,7 +52,7 @@ Minha atuação combina:
 - autenticação, autorização e controle de acesso
 - modelagem e administração de bancos de dados relacionais
 - infraestrutura, Linux, Docker, redes e servidores
-- levantamento de requisitos e tradução de problemas reais em software
+- levantamento de requisitos e tradução de problemas em software
 - versionamento, documentação técnica e organização de projetos
 
 > **Meu diferencial é compreender tanto o código quanto o ambiente em que ele será executado.**
@@ -158,28 +144,24 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs">
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-
-<br>
-
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
-<img src="https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=java&logoColor=white" alt="Lombok">
-<img src="https://img.shields.io/badge/MVC-Architecture-00bfbf?style=for-the-badge" alt="MVC">
-<img src="https://img.shields.io/badge/DTO-Pattern-00bfbf?style=for-the-badge" alt="DTO">
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=java&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Architecture-00bfbf?style=for-the-badge)
+![DTO](https://img.shields.io/badge/DTO-Pattern-00bfbf?style=for-the-badge)
 
 </div>
 
@@ -187,16 +169,16 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Blade">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 </div>
 
@@ -204,12 +186,12 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-<img src="https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=databricks&logoColor=white" alt="H2 Database">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
@@ -217,16 +199,15 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
-<img src="https://img.shields.io/badge/Redes-Infrastructure-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -234,13 +215,13 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
@@ -248,13 +229,13 @@ Minha atuação combina:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Clean%20Code-00bfbf?style=for-the-badge" alt="Clean Code">
-<img src="https://img.shields.io/badge/SOLID-00bfbf?style=for-the-badge" alt="SOLID">
-<img src="https://img.shields.io/badge/Design%20Patterns-00bfbf?style=for-the-badge" alt="Design Patterns">
-<img src="https://img.shields.io/badge/Layered%20Architecture-00bfbf?style=for-the-badge" alt="Layered Architecture">
-<img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Flow">
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum">
-<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+![Clean Code](https://img.shields.io/badge/Clean%20Code-00bfbf?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-00bfbf?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-00bfbf?style=for-the-badge)
+![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-00bfbf?style=for-the-badge)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
@@ -276,12 +257,8 @@ Minha atuação combina:
 
 <br><br>
 
-<a href="https://meu-semestre-ucsal.vercel.app/">
-  <img src="https://img.shields.io/badge/ACESSAR%20APLICA%C3%87%C3%83O-00bfbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar aplicação">
-</a>
-<a href="https://github.com/ViniciusLgo/MeuSemestreUcsal">
-  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
-</a>
+[![Acessar aplicação](https://img.shields.io/badge/ACESSAR%20APLICA%C3%87%C3%83O-00bfbf?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-semestre-ucsal.vercel.app/)
+[![Ver repositório](https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusLgo/MeuSemestreUcsal)
 
 </div>
 
@@ -299,9 +276,7 @@ API REST e interface web para gerenciamento de ninjas e missões. Projeto educac
 
 **Stack:** `Java 21` `Spring Boot` `Spring Web MVC` `Spring Data JPA` `H2` `Flyway` `Thymeleaf` `Lombok` `OpenAPI` `Maven`
 
-<a href="https://github.com/ViniciusLgo/CadastroDeNinjas">
-  <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
-</a>
+[![Ver repositório](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusLgo/CadastroDeNinjas)
 
 ---
 
@@ -311,9 +286,7 @@ API para gerenciamento de catálogo de filmes, categorias, plataformas de stream
 
 **Stack:** `Java 17` `Spring Boot 3` `Spring Security` `JWT` `Spring Data JPA` `PostgreSQL` `Flyway` `Swagger` `Validation`
 
-<a href="https://github.com/ViniciusLgo/Movieflix">
-  <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
-</a>
+[![Ver repositório](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusLgo/Movieflix)
 
 ---
 
@@ -321,9 +294,9 @@ API para gerenciamento de catálogo de filmes, categorias, plataformas de stream
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **SGE DAX Code** | Sistema de gerenciamento escolar para o Projeto DAX Code — coordenação, professores e alunos | PHP 8 · Laravel 12 · MySQL · Blade · Bootstrap · Linux |
-| **DAX Control Center** | Sistema interno de gestão de TI: inventário, chamados, infraestrutura e projetos | PHP · Laravel · MySQL · Blade · Bootstrap |
-| **Sis. Candidatos DAX Code** | Plataforma para inscrição e seleção de candidatos ao Projeto DAX Code | PHP · Laravel · MySQL · Blade · Bootstrap |
+| **SGE DAX Code** | Sistema de gerenciamento escolar — coordenação, professores e alunos | PHP 8 · Laravel 12 · MySQL · Blade · Bootstrap · Linux |
+| **DAX Control Center** | Sistema interno de gestão de TI: inventário, chamados, infraestrutura | PHP · Laravel · MySQL · Blade · Bootstrap |
+| **Sis. Candidatos DAX Code** | Plataforma para inscrição e seleção de candidatos | PHP · Laravel · MySQL · Blade · Bootstrap |
 
 ---
 
@@ -333,7 +306,7 @@ API para gerenciamento de catálogo de filmes, categorias, plataformas de stream
 Gestão de infraestrutura, desenvolvimento e evolução do SGE, administração de servidores Linux e Windows Server, manutenção de aplicações PHP/Laravel, bancos MySQL, suporte técnico avançado e planejamento tecnológico.
 
 **Analista de Infra e Suporte — DAX Oil Refino S.A.** · *ago/2024 – presente*
-Gerenciamento da infraestrutura tecnológica corporativa, resolução de problemas complexos, automatização de processos, segurança da informação, upgrades de sistemas, suporte técnico N2/N3 e relatórios gerenciais.
+Gerenciamento da infraestrutura tecnológica corporativa, automatização de processos, segurança da informação, upgrades de sistemas, suporte técnico N2/N3 e relatórios gerenciais.
 
 **Assistente de TI — DAX Oil Refino S.A.** · *dez/2022 – ago/2024*
 Suporte técnico, administração de servidores e redes, manutenção de infraestrutura, políticas de segurança, rotinas de backup e documentação de processos.
@@ -367,12 +340,12 @@ Suporte técnico, administração de servidores e redes, manutenção de infraes
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf"
+  src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00bfbf&amp;text_color=c9d1d9&amp;icon_color=00bfbf"
   alt="Estatísticas do GitHub"
 />
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLgo&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=c9d1d9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLgo&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00bfbf&amp;text_color=c9d1d9"
   alt="Linguagens mais utilizadas"
 />
 
@@ -380,7 +353,7 @@ Suporte técnico, administração de servidores e redes, manutenção de infraes
 
 <img
   width="72%"
-  src="https://streak-stats.demolab.com?user=ViniciusLgo&locale=pt_BR&hide_border=true&background=0D1117&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFBF&sideLabels=00BFBF&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=ViniciusLgo&amp;locale=pt_BR&amp;hide_border=true&amp;background=0D1117&amp;stroke=00BFBF&amp;ring=00BFBF&amp;fire=00BFBF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00BFBF&amp;sideLabels=00BFBF&amp;dates=8B949E"
   alt="Sequência de contribuições"
 />
 
@@ -392,7 +365,7 @@ Suporte técnico, administração de servidores e redes, manutenção de infraes
 
 <img
   width="95%"
-  src="https://github-profile-trophy.vercel.app/?username=ViniciusLgo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"
+  src="https://github-profile-trophy.vercel.app/?username=ViniciusLgo&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4&amp;row=2"
   alt="Troféus do GitHub"
 />
 
@@ -404,7 +377,7 @@ Suporte técnico, administração de servidores e redes, manutenção de infraes
 
 <img
   width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&area_color=00bfbf&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&amp;bg_color=0d1117&amp;color=00bfbf&amp;line=00bfbf&amp;point=ffffff&amp;area=true&amp;area_color=00bfbf&amp;hide_border=true&amp;custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias"
   alt="Gráfico de atividade"
 />
 
@@ -456,15 +429,9 @@ Currently seeking opportunities as **Software Engineer, Java Developer, PHP Deve
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/viniciuslagocruz/">
-  <img src="https://img.shields.io/badge/LinkedIn-Entrar%20em%20contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/ViniciusLgo">
-  <img src="https://img.shields.io/badge/GitHub-Acompanhar%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://meu-semestre-ucsal.vercel.app/">
-  <img src="https://img.shields.io/badge/Projeto%20publicado-Acessar-00bfbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Projeto publicado">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Entrar%20em%20contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuslagocruz/)
+[![GitHub](https://img.shields.io/badge/GitHub-Acompanhar%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusLgo)
+[![Projeto publicado](https://img.shields.io/badge/Projeto%20publicado-Acessar-00bfbf?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-semestre-ucsal.vercel.app/)
 
 </div>
 
@@ -472,5 +439,5 @@ Currently seeking opportunities as **Software Engineer, Java Developer, PHP Deve
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,50:00bfbf,100:0f172a"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;section=footer&amp;color=0:0f172a,50:00bfbf,100:0f172a"
 />
