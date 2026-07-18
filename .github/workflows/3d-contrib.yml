@@ -15,16 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "ViniciusLgo",
-              "startForegroundColor": "0xffffff",
-              "endForegroundColor": "0x00BFBF",
-              "backgroundImage": null,
-              "backgroundColor": "0x0D1117",
-              "isAnimation": true,
-              "outputFileGithubPages": "profile-3d-contrib/profile-night-green.svg"
-            }
+          SETTING_JSON: '{"githubUserName":"ViniciusLgo","startForegroundColor":"0xffffff","endForegroundColor":"0x00BFBF","backgroundImage":null,"backgroundColor":"0x0D1117","isAnimation":true,"outputFileGithubPages":"profile-3d-contrib/profile-night-green.svg"}'
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
