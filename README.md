@@ -1,212 +1,340 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A44,50:00838F,100:00BFBF&height=210&section=header&text=Vinicius%20Lago%20Cruz&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20PHP%20%C2%B7%20Java%20%C2%B7%20TypeScript&descSize=19&descAlignY=58&descColor=E6FDFD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00838F,100:0D1117&height=200&section=header&text=Vinicius%20Lago%20Cruz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer+%7C+IT+Infrastructure+Analyst&descSize=17&descAlignY=60&descColor=00BFBF" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="360" />
 
 <br>
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=750&height=50&lines=Do+requisito+ao+deploy%2C+eu+cubro+tudo;PHP+%2F+Laravel+%C2%B7+Java+%2F+Spring+Boot;TypeScript+%2F+Next.js+%C2%B7+Infraestrutura+Linux;Sistemas+reais.+Usu%C3%A1rios+reais.+Produ%C3%A7%C3%A3o+real.)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=00BFBF&center=true&vCenter=true&width=620&lines=PHP+%2F+Laravel+%C2%B7+Java+%2F+Spring+Boot+%C2%B7+TypeScript+%2F+Next.js;4%2B+anos+em+TI+%C2%B7+4+sistemas+em+produção+%C2%B7+~40+usuários%2Fdia;Do+requisito+ao+deploy+—+do+código+ao+servidor.)
 
 <br>
 
-> *Código limpo. Infraestrutura sólida. Resultado real.*
-
-<br>
-
-<a href="https://www.linkedin.com/in/viniciuslagocruz/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vinicruzlago@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://meu-semestre-ucsal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-MeuSemestreUCSAL-00BFBF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/ViniciusLgo"><img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/📍_Camaçari,_BA-0D1117?style=for-the-badge&labelColor=0D1117&color=1a2333" />
-<img src="https://komarev.com/ghpvc/?username=ViniciusLgo&label=Visualizações&color=00BFBF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ViniciusLgo?style=for-the-badge&logo=github&label=Seguidores&color=00BFBF&labelColor=0D1117" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuslagocruz/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinicruzlago@gmail.com)
+[![Demo](https://img.shields.io/badge/MeuSemestreUCSAL-00BFBF?style=flat-square&logo=vercel&logoColor=white)](https://meu-semestre-ucsal.vercel.app/)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/ViniciusLgo)
+![Visitors](https://komarev.com/ghpvc/?username=ViniciusLgo&style=flat-square&color=00BFBF&label=views)
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════ DASHBOARD DE MÉTRICAS ═══════════════════ -->
+<!-- ══════════════════════════════════════════════════ -->
+<!-- ASCII ART — gerado manualmente, estilo ANSI Block -->
+<!-- ══════════════════════════════════════════════════ -->
 
-<table align="center">
-<tr>
-<td align="center" width="230">
+<div align="center">
 
-### 🕓
-### `4+`
-**anos em TI**
+```
+██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
+██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
+██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
+╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
+ ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
+         L A G O   C R U Z  ·  Full Stack Dev
+```
 
-</td>
-<td align="center" width="230">
-
-### 🟢
-### `4`
-**sistemas em produção**
-
-</td>
-<td align="center" width="230">
-
-### 👥
-### `~40`
-**usuários ativos/dia**
-
-</td>
-<td align="center" width="230">
-
-### ⚡
-### `540+`
-**contribuições/ano**
-
-</td>
-</tr>
-</table>
-
-<br>
+</div>
 
 ---
 
-<h2 align="center">👋 Sobre mim</h2>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- TERMINAL STATS (github-stats-terminal-style)       -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api/stats?username=ViniciusLgo&theme=tokyonight&headerStyle=mac&typingSpeed=25&hostname=github)](https://github.com/ViniciusLgo)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- DEV CARD CUSTOM — substitui daily.dev devcard      -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ⚡  DEV CARD  ·  @ViniciusLgo                                 ║
+║   ──────────────────────────────────────────────────────────    ║
+║                                                                  ║
+║   Vinicius Lago Cruz                                             ║
+║   Full Stack Developer  ·  IT Infrastructure Analyst             ║
+║   DAX Oil Refino S.A.  ·  Projeto DAX Code  ·  Camaçari, BA    ║
+║                                                                  ║
+║   ──────────────────────────────────────────────────────────    ║
+║                                                                  ║
+║   🔥 Especialidades                                              ║
+║      Back-end   →  PHP 8.4 / Laravel 12  ·  Java 17 / Spring   ║
+║      Front-end  →  TypeScript / Next.js 16  ·  Tailwind CSS 4  ║
+║      Infra      →  Linux · Nginx · Cloudflare · CI/CD           ║
+║      Banco      →  MySQL · PostgreSQL · Supabase                 ║
+║                                                                  ║
+║   ──────────────────────────────────────────────────────────    ║
+║                                                                  ║
+║   📊 Impacto                                                     ║
+║      4+ anos em TI   ·   4 sistemas em produção                  ║
+║      ~40 usuários ativos/dia   ·   540+ contribuições/ano        ║
+║                                                                  ║
+║   ──────────────────────────────────────────────────────────    ║
+║   🟢  Open to Work  ·  linkedin.com/in/viniciuslagocruz         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- SOBRE + NÚMEROS                                    -->
+<!-- ══════════════════════════════════════════════════ -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🇧🇷 PT-BR
+## Sobre
 
-Sou **Desenvolvedor Full Stack** com background em infraestrutura de TI, o que me dá uma visão completa: do código à produção, do banco ao servidor.
+Desenvolvedor Full Stack com background em infraestrutura de TI na **DAX Oil Refino S.A.** — Analista de Infraestrutura e Coordenador de TI & Desenvolvedor no **Projeto DAX Code**.
 
-Construo sistemas que rodam de verdade. Trabalho na **DAX Oil Refino S.A.** como Analista de Infraestrutura e lidero o desenvolvimento no **Projeto DAX Code** como Coordenador de TI e Desenvolvedor.
+Entendo o código **e** onde ele roda. Do banco ao servidor, do requisito ao deploy — sem intermediários.
 
-Cursando **Engenharia de Software na UCSAL** · conclusão dez/2026.
-
-**O que me diferencia:**
-- 💡 Entendo o código *e* o ambiente onde ele roda
-- 🔁 Do requisito ao deploy, cubro todo o ciclo
-- ⚙️ Infraestrutura não é obstáculo, é vantagem
+*Engenharia de Software · UCSAL · 8º semestre · dez/2026*
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🇺🇸 EN-US
+## Números
 
-I'm a **Full Stack Developer** with an IT infrastructure background, which gives me a complete view: from code to production, from database to server.
-
-I build systems that actually run. I work at **DAX Oil Refino S.A.** as Infrastructure Analyst and lead development at the **DAX Code Project** as IT Coordinator and Developer.
-
-Studying **Software Engineering at UCSAL** · graduation Dec/2026.
-
-**What sets me apart:**
-- 💡 I understand both the code *and* where it runs
-- 🔁 From requirements to deploy, I cover the full cycle
-- ⚙️ Infrastructure isn't a barrier, it's an advantage
+| | |
+|---|---:|
+| Anos em TI | **4+** |
+| Sistemas em produção | **4** |
+| Usuários ativos/dia | **~40** |
+| Contribuições/ano | **540+** |
+| Semestre · UCSAL | **8º** |
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
-<h2 align="center">🛠️ Stack</h2>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- SKILLS BAR — substitui waka-readme                -->
+<!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**☕ Back-end**
-<br>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+```
+📊  SKILLS · baseado em uso real em produção
+─────────────────────────────────────────────────────────────
 
-<br><br>
+  PHP / Laravel      ████████████████████████░  95% ⬛ backend prod
+  TypeScript         ███████████████████████░░  92% ⬛ frontend prod
+  Next.js / React    ██████████████████████░░░  88% ⬛ frontend prod
+  MySQL / MariaDB    █████████████████████░░░░  84% ⬛ banco prod
+  Java / Spring      ████████████████████░░░░░  80% ⬛ backend prod
+  Linux / Bash       ████████████████████░░░░░  80% ⬛ infra prod
+  Nginx / Cloudflare ██████████████████░░░░░░░  72% ⬛ infra prod
+  PostgreSQL         █████████████████░░░░░░░░  68% ⬛ banco prod
+  Tailwind CSS       █████████████████░░░░░░░░  68% ⬛ frontend prod
+  Docker             █████████░░░░░░░░░░░░░░░░  36% 📈 aprendendo
+  AWS / Kubernetes   ████░░░░░░░░░░░░░░░░░░░░░  16% 📈 aprendendo
 
-**🌐 Front-end**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
-
-<br><br>
-
-**🗄️ Banco de Dados**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mariadb&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Row_Level_Security-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-<br><br>
-
-**🐧 Infra & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=linux,nginx,apache,cloudflare,windows,githubactions,vercel,bash&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/VPN_·_Firewall-333333?style=flat-square" />
-
-<br><br>
-
-**🔧 Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" />
+─────────────────────────────────────────────────────────────
+```
 
 </div>
 
-<br>
-
 ---
 
-<h2 align="center">📊 Dashboard GitHub</h2>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- STACK ICONS                                        -->
+<!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9&icon_color=00BFBF&ring_color=00BFBF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLgo&layout=donut&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ViniciusLgo&locale=pt_BR&hide_border=true&background=0D1117&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFBF&sideLabels=00BFBF&dates=8B949E" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ViniciusLgo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=1" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=0D1117&color=00BFBF&line=00BFBF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,ts,react,nextjs,tailwind,mysql,postgres,supabase,linux,nginx,cloudflare,githubactions,bash,docker&theme=dark&perline=9" />
 
 </div>
 
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- GITHUB STATS                                       -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusLgo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9&icon_color=00BFBF&ring_color=00838F" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLgo&layout=donut&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9&langs_count=7" />
+
 <br>
+
+<img src="https://streak-stats.demolab.com?user=ViniciusLgo&hide_border=true&background=0D1117&stroke=00838F&ring=00BFBF&fire=00BFBF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00BFBF&sideLabels=8B949E&dates=555" />
+
+</div>
 
 ---
 
-<h2 align="center">🏗️ Projetos em Destaque</h2>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- HYOCHAN — stats com atributos únicos               -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://stats.hyo.dev/api/github-stats?login=ViniciusLgo" width="49%" />
+<img src="https://stats.hyo.dev/api/github-stats-advanced?login=ViniciusLgo" width="49%" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- GITLYY CARDS                                       -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://gitlyy.vercel.app/api/profile?username=ViniciusLgo&theme=dark" width="49%" />
+<img src="https://gitlyy.vercel.app/api/contribution?username=ViniciusLgo&theme=dark" width="49%" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- PROFILE SUMMARY CARDS                             -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table border="0" cellspacing="4" cellpadding="0"><tr>
+<td><img width="228" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusLgo&theme=github_dark" /></td>
+<td><img width="228" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusLgo&theme=github_dark" /></td>
+<td><img width="228" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusLgo&theme=github_dark" /></td>
+<td><img width="228" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusLgo&theme=github_dark&utcOffset=-3" /></td>
+</tr></table>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusLgo&theme=github_dark" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- GIT WRAPPED CUSTOM — substitui git-wrapped.com    -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🎁  2025 · WRAPPED  ·  @ViniciusLgo                              │
+│   ─────────────────────────────────────────────────────────────    │
+│                                                                     │
+│   540+  contribuições no ano                                        │
+│     4   sistemas lançados / mantidos em produção                    │
+│    40+  usuários dependendo do código todo dia                      │
+│     4   anos de evolução contínua na DAX Oil                        │
+│                                                                     │
+│   ─────────────────────────────────────────────────────────────    │
+│                                                                     │
+│   🏆  Marco do ano  →  Coordenador de TI + Dev Full Stack          │
+│   🚀  Projeto destaque  →  MeuSemestreUCSAL (LIVE · MIT)           │
+│   📚  Em aprendizado  →  AWS · Docker · Kubernetes · JUnit 5       │
+│   🎓  Próximo passo  →  Eng. de Software UCSAL · dez/2026          │
+│                                                                     │
+│   ─────────────────────────────────────────────────────────────    │
+│   "Do requisito ao deploy. Do código ao servidor."                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- 3D CONTRIBUTION (GitHub Actions — roda em ~5 min) -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="96%" src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH                                     -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLgo&bg_color=0D1117&color=00BFBF&line=00838F&point=FFFFFF&area=true&area_color=003333&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- TROPHIES                                           -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ViniciusLgo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- GIT BONSAI (GitHub Actions — roda em ~5 min)      -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/main/output/bonsai-growth.gif" width="384" alt="Bonsai — árvore gerada proceduralmente do histórico de commits" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- PROJETOS                                           -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## Projetos
 
 <table>
 <tr>
-<td width="100%">
+<td width="52%" valign="top">
 
-### 🎓 MeuSemestreUCSAL
-<img src="https://img.shields.io/badge/🟢_LIVE-vercel.app-00BFBF?style=flat-square" /> <img src="https://img.shields.io/badge/Open_Source-MIT-22C55E?style=flat-square" />
+**🎓 MeuSemestreUCSAL**&emsp;![](https://img.shields.io/badge/LIVE-22C55E?style=flat-square)&ensp;![](https://img.shields.io/badge/MIT-00BFBF?style=flat-square)
 
-Plataforma independente criada do zero e mantida em produção. Alunos da UCSAL avaliam professores anonimamente e planejam o semestre com dados reais.
+Plataforma onde alunos da UCSAL avaliam professores e planejam o semestre. OTP auth · Row Level Security · Bot Telegram · CI/CD.
 
-**Impacto:** usuários reais · autenticação OTP · Row Level Security (PostgreSQL) · bot Telegram · deploy contínuo
+`Next.js 16` `TypeScript` `Supabase` `Tailwind CSS 4`
 
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+[![](https://img.shields.io/badge/↗_Demo-00BFBF?style=flat-square&logo=vercel&logoColor=white)](https://meu-semestre-ucsal.vercel.app/)
+[![](https://img.shields.io/badge/Código-0D1117?style=flat-square&logo=github&logoColor=00BFBF)](https://github.com/ViniciusLgo/MeuSemestreUcsal)
 
-<a href="https://meu-semestre-ucsal.vercel.app/"><img src="https://img.shields.io/badge/↗_Acessar_projeto-00BFBF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/ViniciusLgo/MeuSemestreUcsal"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<a href="https://meu-semestre-ucsal.vercel.app/"><img width="70%" src="https://raw.githubusercontent.com/ViniciusLgo/MeuSemestreUcsal/master/IMG%20PEQUENA.png" /></a>
-
+</td>
+<td width="48%" align="center">
+<a href="https://meu-semestre-ucsal.vercel.app/">
+<img width="96%" src="https://raw.githubusercontent.com/ViniciusLgo/MeuSemestreUcsal/master/IMG%20PEQUENA.png" />
+</a>
 </td>
 </tr>
 </table>
@@ -215,125 +343,81 @@ Plataforma independente criada do zero e mantida em produção. Alunos da UCSAL 
 
 <table>
 <tr>
-<td width="100%">
+<td width="33%" valign="top">
 
-### 📚 Plataforma DaxCode (SGE + Sistema de Candidatos)
-<img src="https://img.shields.io/badge/🟢_EM_PRODUÇÃO-0078D4?style=flat-square" /> <img src="https://img.shields.io/badge/PROPRIETÁRIO-333333?style=flat-square" />
+**📚 DaxCode Platform**&emsp;![](https://img.shields.io/badge/PROD-0078D4?style=flat-square)
 
-Plataforma educacional corporativa com dois módulos integrados: o **SGE**, que cobre gestão escolar completa (matrículas, turmas, disciplinas, documentos e avaliações), e o **Sistema de Candidatos**, com fluxo de inscrição e triagem para o Projeto DAX Code.
+SGE + Candidatos · ~40 usuários/dia · Full ownership.
 
-**Impacto:** ~40 usuários entre coordenação, professores e alunos, todos os dias · arquitetura, código, banco e servidor sob minha responsabilidade
+`PHP 8.4` `Laravel 12` `MySQL` `Cloudflare`
 
-<img src="https://img.shields.io/badge/PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</td>
+<td width="33%" valign="top">
+
+**🖥️ DAX Control Center**&emsp;![](https://img.shields.io/badge/PROD-0078D4?style=flat-square)
+
+Ativos TI, chamados e infra da DAX Oil.
+
+`PHP` `Laravel` `MySQL` `Bootstrap`
+
+</td>
+<td width="34%" valign="top">
+
+**🎬 MovieFlix API**&emsp;![](https://img.shields.io/badge/OSS-00BFBF?style=flat-square)
+
+JWT · Spring Security · Swagger
+
+`Java 17` `Spring Boot 3` `PostgreSQL`
+
+[![](https://img.shields.io/badge/Código-0D1117?style=flat-square&logo=github&logoColor=00BFBF)](https://github.com/ViniciusLgo/Movieflix)
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ DAX Control Center
-<img src="https://img.shields.io/badge/🟢_EM_PRODUÇÃO-0078D4?style=flat-square" /> <img src="https://img.shields.io/badge/INTERNO-333333?style=flat-square" />
-
-Gestão de TI corporativa: inventário de ativos, abertura de chamados e controle de infraestrutura da DAX Oil.
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 MovieFlix API
-<img src="https://img.shields.io/badge/Open_Source-ED8B00?style=flat-square" />
-
-API REST de catálogo de filmes com autenticação JWT, Spring Security, controle de acesso por perfil e documentação Swagger.
-
-<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-
-<a href="https://github.com/ViniciusLgo/Movieflix"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ---
 
-<h2 align="center">💼 Experiência</h2>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- SNAKE                                              -->
+<!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| | Cargo | Empresa | Período |
-|:---:|---|---|---|
-| 🏢 | Coordenador de TI e Desenvolvedor Full Stack | DAX Code / DAX Oil | jan/2026 · presente |
-| 🖥️ | Analista de Infraestrutura e Suporte | DAX Oil Refino S.A. | ago/2024 · presente |
-| 🔧 | Assistente de TI | DAX Oil Refino S.A. | dez/2022 · ago/2024 |
-| 📦 | Aprendiz de TI / Help Desk | DAX Oil Refino S.A. | out/2021 · nov/2022 |
-
-</div>
-
-<br>
-
-<h2 align="center">🎓 Formação</h2>
-
-<div align="center">
-
-| | Curso | Instituição | Status |
-|:---:|---|---|---|
-| 🎓 | Engenharia de Software | UCSAL | 🟡 8º semestre · conclusão dez/2026 |
-| ✅ | Redes de Computadores | Faculdade Pitágoras | Concluído · 2024 |
-| ✅ | Java Developer | Java10x *(certificação)* | Concluído · nov/2024 |
-| ✅ | Inglês (formação de 4 anos) | Wizard by Pearson | Concluído |
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">🚧 Em evolução agora</h2>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/JUnit_5_·_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsserviços-00BFBF?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security_Avançado-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-</div>
-
-<br>
-
----
-
-<h2 align="center">🐍 Contribuições</h2>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/output/github-contribution-grid-snake.svg" alt="snake" width="90%" />
+  <img src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/output/github-contribution-grid-snake.svg" width="96%" alt="snake" />
 </picture>
+
 </div>
 
-<br>
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!-- CARREIRA                                           -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## Carreira
 
 <div align="center">
 
-### 💬 Vamos conversar?
-
-Se você procura um dev que entende o código **e** o ambiente onde ele roda, meu inbox está aberto.
-
-<a href="https://www.linkedin.com/in/viniciuslagocruz/"><img src="https://img.shields.io/badge/LinkedIn-viniciuslagocruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vinicruzlago@gmail.com"><img src="https://img.shields.io/badge/vinicruzlago@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-**Vinicius Lago Cruz** · Camaçari, BA
+| Cargo | Empresa | Período |
+|:---|:---|:---:|
+| Coordenador de TI · Dev Full Stack | DAX Code / DAX Oil | jan/2026 · hoje |
+| Analista de Infraestrutura e Suporte | DAX Oil Refino S.A. | ago/2024 · hoje |
+| Assistente de TI | DAX Oil Refino S.A. | dez/2022 · ago/2024 |
+| Aprendiz de TI · Help Desk | DAX Oil Refino S.A. | out/2021 · nov/2022 |
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFBF,50:00838F,100:0F2A44&height=120&section=footer" />
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00BFBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuslagocruz/)&ensp;[![Gmail](https://img.shields.io/badge/Gmail-00BFBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicruzlago@gmail.com)
+
+<sub>Vinicius Lago Cruz · Camaçari, BA</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00838F,100:0D1117&height=110&section=footer&reversal=true" />

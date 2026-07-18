@@ -1,0 +1,23 @@
+name: Git Bonsai
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+jobs:
+  bonsai:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: egorthinks/git-bonsai@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ViniciusLgo
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add output/
+          git commit -m "chore: update bonsai tree" || exit 0
+          git push
