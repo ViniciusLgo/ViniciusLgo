@@ -264,13 +264,12 @@ Entendo o código **e** onde ele roda. Do banco ao servidor, do requisito ao dep
 ---
 
 <!-- ══════════════════════════════════════════════════ -->
-<!-- METRICS CARD — lowlighter/metrics via hosted API  -->
+<!-- 3D CONTRIBUTION (GitHub Actions)                  -->
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="49%" src="https://metrics.lecoq.io/ViniciusLgo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FBahia&config.display=regular" />
-<img width="49%" src="https://metrics.lecoq.io/ViniciusLgo?template=classic&achievements=1&base=0&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FBahia" />
+<img width="96%" src="https://raw.githubusercontent.com/ViniciusLgo/ViniciusLgo/main/profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" />
 
 </div>
 
