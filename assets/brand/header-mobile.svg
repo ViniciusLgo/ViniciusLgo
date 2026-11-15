@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Do código à operação — Vinicius Lago Cruz</title>
+  <desc id="desc">Identidade de Vinicius Lago Cruz em azul profundo e verde, com foco em desenvolvimento Full Stack, dados e infraestrutura.</desc>
+  <rect width="600" height="420" rx="14" fill="#101B2D"/>
+  <path d="M34 43H62" stroke="#7DE2C5" stroke-width="3"/>
+  <text x="78" y="49" fill="#B6C4D6" font-family="Consolas, monospace" font-size="18" letter-spacing="1">VINICIUS LAGO CRUZ</text>
+  <text x="32" y="153" fill="#F3F6FA" font-family="Georgia, serif" font-size="78" letter-spacing="-3">Do código</text>
+  <text x="32" y="241" fill="#7DE2C5" font-family="Georgia, serif" font-size="82" font-style="italic" letter-spacing="-3">à operação.</text>
+  <text x="36" y="296" fill="#B6C4D6" font-family="Segoe UI, sans-serif" font-size="23">Software que conecta produto,</text>
+  <text x="36" y="327" fill="#B6C4D6" font-family="Segoe UI, sans-serif" font-size="23">dados e operação.</text>
+  <path d="M36 354H564" stroke="#B6C4D6" stroke-opacity=".2"/>
+  <text x="36" y="389" fill="#7DE2C5" font-family="Consolas, monospace" font-size="16">FULL STACK · DADOS · INFRAESTRUTURA</text>
+</svg>
