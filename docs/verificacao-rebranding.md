@@ -1,5 +1,18 @@
 # Verificação do rebranding
 
+## Curadoria de stacks, ordem e projetos
+
+Pedido seguinte do usuário: reorganizar o perfil, atualizar stacks e métricas, escolher projetos e preservar bonsai/snake.
+
+- Reconsultados os repositórios públicos, manifesto do MeuSemestre e documentação de SGQ, Microcrédito, portfólio pessoal e RoboEstudo.
+- Mantidos quatro projetos públicos principais, com experiência DAX em seção própria e estudos em bloco compacto.
+- Stacks organizadas por aplicação; ranking oculto; linguagens em barras compactas; gráfico de contribuições redundante removido.
+- Bonsai com largura própria e snake em linha separada para manter a leitura no celular, ambos fora de seções recolhíveis.
+- Apresentação substitui a tabela aninhada por texto e badges; links internos de navegação adicionados.
+- Doze endereços GitHub retornaram HTTP 200; demo MeuSemestre acessível; assets e âncoras locais conferidos.
+
+Os registros seguintes documentam versões anteriores.
+
 ## Correção de identidade solicitada pelo usuário
 
 - Recuperado o README anterior ao rebranding, usando `ee1fba3` como referência.
