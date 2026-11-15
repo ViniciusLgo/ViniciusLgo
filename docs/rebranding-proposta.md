@@ -1,5 +1,7 @@
 # Rebranding do perfil de Vinicius Lago Cruz
 
+> Proposta substituída após revisão do usuário em 15/11/2026. O pedido atual é preservar o visual original, com bonsai, snake, animações, badges e métricas visíveis, acrescentando projetos e melhorias discretas. O texto abaixo registra a proposta anterior, não a direção atual.
+
 Proposta editorial aprovada pelo usuário — pesquisa realizada em 15/11/2026.
 
 ## Posicionamento recomendado

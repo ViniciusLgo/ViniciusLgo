@@ -1,5 +1,19 @@
 # Verificação do rebranding
 
+## Correção de identidade solicitada pelo usuário
+
+- Recuperado o README anterior ao rebranding, usando `ee1fba3` como referência.
+- Restaurados cabeçalho e rodapé em ondas, texto digitando, badges, contatos, ícones de tecnologias, métricas e apresentação profissional original.
+- Bonsai e snake novamente visíveis, sem seção recolhível. Workflows e arquivos de animação preservados.
+- Mantidos os quatro projetos originais e adicionados SGQ, Microcrédito, Thiago Guinchos e GuinchoTrack, com ícones no estilo existente.
+- Atualizada a stack com C#/.NET, Python, Three.js e Terraform.
+- Corrigidas as descrições de notificações do MeuSemestre e de testes do MovieFlix com base na revisão anterior do código.
+- Os endpoints antigos de estatísticas retornaram HTTP 402 e o gráfico de atividade retornou HTTP 404. Substituídos por cards SVG funcionais, preservando a seção de métricas.
+- Prévia revisada em desktop e celular: bonsai carregado e fora de qualquer seção recolhível, nenhuma imagem quebrada e nenhuma rolagem horizontal da página em 390 px. A tabela original de apresentação mantém rolagem interna no celular.
+- Os banners editoriais rejeitados foram removidos. Os registros abaixo se referem à primeira versão, substituída.
+
+## Histórico da primeira versão
+
 Data: 15/11/2026. Desenvolvimento: `feat/profile-rebranding`. Entrega: `main`.
 
 ## Verificado

@@ -1,0 +1,6 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dados e processamento">
+<rect width="56" height="56" rx="14" fill="#0D1117"/>
+<rect x=".75" y=".75" width="54.5" height="54.5" rx="13.25" fill="none" stroke="#00838F" stroke-width="1.5"/>
+<g fill="none" stroke="#00E5CC" stroke-width="2"><ellipse cx="28" cy="17" rx="13" ry="5"/><path d="M15 17V38C15 45 41 45 41 38V17M15 27C15 34 41 34 41 27M15 37C15 44 41 44 41 37"/></g>
+<path d="M20 24V26M20 34V36" stroke="#00BFBF" stroke-width="2" stroke-linecap="round"/>
+</svg>

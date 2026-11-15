@@ -1,5 +1,7 @@
 # GitHub Rebranding Implementation Plan
 
+> Histórico: a direção editorial foi substituída pelo usuário. A entrega atual restaura o README original e adiciona projetos, tecnologias e correções de links, preservando seus elementos visuais. Os banners editoriais foram removidos.
+
 > Execução nesta sessão, com revisão dos arquivos e da renderização entre os blocos.
 
 **Goal:** Aplicar a proposta editorial aprovada ao perfil ViniciusLgo.
